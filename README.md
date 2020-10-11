@@ -1,4 +1,4 @@
-# telsis-translator
+# tellsis-translator
 
 ## TODO
 - テキストを翻訳できるようにする
